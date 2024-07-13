@@ -8,7 +8,7 @@ I'm a DataScientist/ML researcher. I grew up in a small town near Disneyland Par
 - 💬 Fun fact: My favorite English idiom is *Let's get this bread*, which sounds absurdly funny for a French guy.
 
 ---
-<!-- [![Blog](https://img.shields.io/badge/Blog-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://tonywu71.notion.site/Workfolio-e937d2baf5ab4669904b04fd24513499?pvs=74) -->
+[![Blog](https://img.shields.io/badge/Blog-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://tonywu71.notion.site/Hi-I-m-Tony-e937d2baf5ab4669904b04fd24513499?pvs=4)
 [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/tonywu_71)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonywu71/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tonywu71)
