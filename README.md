@@ -1,11 +1,11 @@
 ### Hi, I'm Tony 👋🏼
 
-I'm a DataScientist/ML researcher. I grew up in a small town near Disneyland Paris 🇫🇷 (pretty cool eh?), and I'm lucky to have traveled around the world during my academic years (love you 🇧🇷🇭🇰🇬🇧).
+I'm a DataScientist/ML researcher. I grew up in a small town near Disneyland Paris 🇫🇷, and I'm lucky to have traveled around the world during my academic years (love you 🇧🇷🇭🇰🇬🇧).
 
 - 🎓 I studied a MEng CentraleSupélec in Paris-Saclay. I also finished the MPhil in Machine Learning and Machine Intelligence (MLMI) at the University of Cambridge (Sidney Sussex College).
 - 💼 I'm currently working at ILLUIN Technology. I'm doing both R&D and ML development, and I specialize in RAG and Document AI.
 - 😍 Among my past and current hobbies: guitar, rowing (erg is no fun), gym, cinema, and animation.
-- 💬 Fun fact: My favorite English idiom is *Let's get this bread*, which sounds absurdly funny for a French guy.
+- 💬 Fun fact: My favorite English idiom is *Let's get this bread*. Sounds just about right for a French guy!
 
 ---
 [![Blog](https://img.shields.io/badge/Blog-F0F0F0?style=for-the-badge&logo=notion&logoColor=black)](https://tonywu71.notion.site/Hi-I-m-Tony-e937d2baf5ab4669904b04fd24513499?pvs=4)
