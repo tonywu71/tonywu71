@@ -7,6 +7,8 @@ I'm a DataScientist/ML researcher. I grew up in a small town near Disneyland Par
 - 😍 Among my past and current hobbies: guitar, rowing (erg is no fun), gym, cinema, and animation.
 - 💬 Fun fact: My favorite English idiom is *Let's get this bread*. Sounds just about right for a French guy!
 
+Contact: tonywu.ai@outlook.com
+
 ---
 [![Blog](https://img.shields.io/badge/Blog-F0F0F0?style=for-the-badge&logo=notion&logoColor=black)](https://tonywu71.notion.site/Hi-I-m-Tony-e937d2baf5ab4669904b04fd24513499?pvs=4)
 [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/tonywu_71)
