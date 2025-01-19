@@ -1,11 +1,13 @@
 ### Hi, I'm Tony 👋🏼
 
-I'm a DataScientist/ML researcher. I grew up in a small town near Disneyland Paris 🇫🇷, and I'm lucky to have traveled around the world during my academic years (love you 🇧🇷🇭🇰🇬🇧).
+I'm a Research Engineer based in Paris. I grew up in a small town near Disneyland Paris 🇫🇷, and I'm lucky to have traveled around the world during my academic years (love you 🇧🇷🇭🇰🇬🇧).
 
 - 🎓 I studied a MEng CentraleSupélec in Paris-Saclay. I also finished the MPhil in Machine Learning and Machine Intelligence (MLMI) at the University of Cambridge (Sidney Sussex College).
-- 💼 I'm currently working at ILLUIN Technology. I'm doing both R&D and ML development, and I specialize in RAG and Document AI.
-- 😍 Among my past and current hobbies: guitar, rowing (erg is no fun), gym, cinema, and animation.
-- 💬 Fun fact: My favorite English idiom is *Let's get this bread*. Sounds just about right for a French guy!
+- 💼 I'm currently working at ILLUIN Technology where I specialize in RAG and Document AI.
+- 😍 Among my past and current hobbies: guitar, rowing (erg is no fun), gym, and cinema.
+- 🔬 Research interests: LLM, Multimodal, Speech, Agents.
+
+💬 Feel free to reach out to discuss research ideas!
 
 Contact: tonywu.ai@outlook.com
 
